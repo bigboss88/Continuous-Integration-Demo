@@ -6,3 +6,6 @@ def func2(x):
 
 def func3(x):
 	return x/x
+
+def func4():
+	return 'SWE4103 is great'
