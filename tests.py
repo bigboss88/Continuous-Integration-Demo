@@ -6,3 +6,5 @@ def test_func2():
 	assert func2(3) == 6
 def test_func3():
 	assert func3(3) == 1
+def test_func4():
+	assert func4() == 'SWE4103 is great'
